@@ -19,6 +19,8 @@ Boom Bap is a drum machine where a user can hover over the drum pads to sound a 
 * `ember server`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
+Boom Bap can also be viewed at https://boom-bap-drum.herokuapp.com
+
 ### Technologies Used
 
 * Ember
