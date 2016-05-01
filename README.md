@@ -29,9 +29,9 @@ Boom Bap can also be viewed at https://boom-bap-drum.herokuapp.com
 * NPM
 * Node
 * Bower
+* Git
 * HTML
 * SCSS
-* Git
 * Google Fonts
 * Font Awesome
 
